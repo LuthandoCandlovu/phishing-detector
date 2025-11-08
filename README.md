@@ -2,14 +2,33 @@
 
 <div align="center">
 
-![PhishShield Banner](https://via.placeholder.com/800/200/000000/FFFFFF?text=PhishShield+🚨)
-*Don't get hooked - catch phishing attempts before they catch you!*
+![PhishShield Banner](https://github.com/user-attachments/assets/047464db-1be3-4dd2-a1f2-3ed416efca09)
+*Your digital bodyguard against malicious URLs - Don't get hooked!*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Security](https://img.shields.io/badge/Security-Cyber--Attack--Prevention-red.svg)](https://github.com/LuthandoCandlovu)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](https://github.com/LuthandoCandlovu/phishing-detector)
 
-**⚡ Real-time phishing detection | 🎯 Machine Learning Ready | 💾 Persistent History | 🎨 Beautiful CLI**
+**⚡ Real-time Detection | 🎯 Machine Learning Ready | 💾 Smart History | 🎨 Beautiful Interface**
+
+</div>
+
+## 🎯 Visual Demo - See It In Action!
+
+<div align="center">
+
+### 🖥️ **Live Detection Results**
+<img width="400" src="https://github.com/user-attachments/assets/3d9d267d-c1e1-4868-b11d-d0889e4e3547" alt="Live Detection Example" />
+*Real-time phishing detection with confidence scores*
+
+### 📊 **Session History Tracking**  
+<img width="400" src="https://github.com/user-attachments/assets/8cd26721-fb08-438c-8a1e-4af4f6564e41" alt="History Tracking" />
+*Persistent memory of all scanned URLs*
+
+### 🚀 **Modern CLI Interface**
+<img width="300" src="https://github.com/user-attachments/assets/e2bd706c-9a81-4b69-96b7-cfeb4c3be055" alt="CLI Interface" />
+*Beautiful, color-coded command-line experience*
 
 </div>
 
@@ -19,29 +38,20 @@ PhishShield is your **digital bodyguard** against malicious URLs. While you brow
 
 > ⚡ **From beginner to security pro** - This project demonstrates real-world cybersecurity concepts in an accessible way!
 
-## 🎯 Why This Will Blow Your Mind
-
-| Feature | 💼 Professional | 🎓 Learning | 🔥 Cool Factor |
-|---------|----------------|-------------|----------------|
-| **Real-time Analysis** | Enterprise-grade detection | Understand URL parsing | Instant results like a hacker movie |
-| **Persistent Memory** | Database skills | File I/O operations | Your own "mission log" |
-| **ML Ready Architecture** | Production code structure | Easy to extend | Add AI with 10 lines of code |
-| **Beautiful CLI** | Professional UX | Colorama mastery | Feels like a tech demo |
-
 ## 🛠️ Quick Start - Be Running in 60 Seconds!
 
-### 1. Clone & Enter
+### 1. Clone & Enter the Matrix
 ```bash
 git clone https://github.com/LuthandoCandlovu/phishing-detector.git
 cd phishing-detector
-2. Activate Your Powers
+2. Activate Your Cyber Powers
 bash
 # Windows
 .\phishenv\Scripts\activate
 
 # Mac/Linux
 source phishenv/bin/activate
-3. Launch The Hunter
+3. Launch The Threat Hunter
 bash
 python phish_detector.py
 4. Watch the Magic Happen! ✨
@@ -76,7 +86,10 @@ bash
 🎯 RESULT: LIKELY SAFE (80% confidence)
 ℹ️  INFO: No red flags detected
 🔬 Under the Hood - The Tech Magic
-🧠 Detection Engine
+<div align="center">
+🏗️ Architecture Overview
+<img width="600" src="https://github.com/user-attachments/assets/047464db-1be3-4dd2-a1f2-3ed416efca09" alt="System Architecture" /></div>
+🧠 Intelligent Detection Engine
 python
 def analyze_threat(url):
     # Trusted domains = instant green light
@@ -93,6 +106,12 @@ python
 # Remembers every scan forever
 # Learns from your browsing habits
 # Builds your personal threat database
+📊 Feature Comparison
+Feature	🎯 PhishShield	💼 Traditional Tools	🚀 Our Advantage
+Real-time Analysis	✅ Instant Results	❌ Manual Checking	10x Faster
+Learning System	✅ Adaptive Memory	❌ Static Rules	Gets Smarter
+Beautiful UI	✅ Color-coded CLI	❌ Plain Text	Better UX
+Extensible	✅ ML Ready	❌ Closed System	Future Proof
 🚀 Level Up - Make It Yours!
 Easy Enhancements (15 minutes each):
 Add Web Interface - Make it a website
@@ -143,30 +162,33 @@ Professionals demonstrating practical skills
 Curious Minds interested in how cybersecurity works
 
 🏆 Why This Project Rocks
-✅ Actually Useful - Protect yourself for real
-✅ Learning Goldmine - Multiple tech skills in one project
-✅ Impressive AF - Sounds complex but accessible
-✅ Easy to Extend - Add your own features
-✅ Portfolio Ready - Employers love practical security projects
-
-👨‍💻 Built by a Human, For Humans
+<div align="center">
+✅ Professional	✅ Educational	✅ Impressive
+Real-world use case	Multiple tech skills	Sounds complex
+Production-ready code	Step-by-step learning	Visual demos
+Extensible architecture	Cybersecurity fundamentals	Portfolio worthy
+</div>
+👨‍💻 Built With Passion
+<div align="center">
 Luthando Candlovu - GitHub
 
 "I built this to understand how cybersecurity actually works. Now you can too - no PhD required!"
 
+</div>
 🤝 Join the Mission
 Found a bug? Have a cool idea? I want to hear it!
 
-Open an issue
+🐛 Open an Issue
 
-Submit a pull request
+🔄 Submit a PR
 
-Share your enhancements
+💡 Share Ideas
 
 <div align="center">
-⭐ Star this repo if it helped you level up!
+⭐ Star this repo if you're ready to level up your coding skills!
 
-Remember: Every expert was once a beginner who didn't quit. 🚀
+Remember: Every cybersecurity expert started by building something simple. 🚀
+
+🔐 Stay Safe, Code Hard
 
 </div> ```
-
