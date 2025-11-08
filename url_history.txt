@@ -1,0 +1,3 @@
+https://www.google.com/search?q=ufh+address+alice&oq=u&gs_lcrp=EgZjaHJvbWUqBggFEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg8MgYIBxBFGDzSAQg1NDM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | LEGITIMATE | 0.95
+https://www.hackerone.com/hackers/how-to-start-hacking | LEGITIMATE | 0.80
+https://www.bing.com/images/search?q=threat+dashboard&form=HDRSC3&first=1 | LEGITIMATE | 0.80
